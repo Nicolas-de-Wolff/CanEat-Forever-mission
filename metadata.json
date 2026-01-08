@@ -1,0 +1,5 @@
+{
+  "name": "CanEat For Ever v2",
+  "description": "A mobile-first Snake-style game where you control a flying canette collecting Kombucha grains.",
+  "requestFramePermissions": []
+}
